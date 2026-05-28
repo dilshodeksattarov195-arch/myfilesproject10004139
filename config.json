@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercecrypt",
+        "uuid": 5562816,
+        "checksum": "gego2a"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
